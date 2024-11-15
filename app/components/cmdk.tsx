@@ -160,6 +160,19 @@ function Home({ searchProjects }: { searchProjects: Function }) {
   );
 }
 
+function Projects() {
+  return (
+    <>
+      <Item>Project 1</Item>
+      <Item>Project 2</Item>
+      <Item>Project 3</Item>
+      <Item>Project 4</Item>
+      <Item>Project 5</Item>
+      <Item>Project 6</Item>
+    </>
+  );
+}
+
 function Item({
   children,
   shortcut,
