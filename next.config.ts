@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://www.youtube.com/watch?v=BK7Tw8uZ8Ss',
+        destination: 'https://traff.co/L6piS2BM',
         permanent: true,
       },
     ]
