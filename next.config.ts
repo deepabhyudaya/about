@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://traff.co/L6piS2BM',
+        destination: 'https://traff.co/q1VicOpo',
         permanent: true,
       },
     ]
